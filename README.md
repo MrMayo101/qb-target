@@ -4,6 +4,8 @@ qb-target is a targeting solution that allows interaction with any predefined en
 
 ## Credits
 
+- FJamZoo for the css, js and html (i just copied his edit of those to the updated target) his original: https://github.com/Renewed-Scripts/qb-target
+
 * Lots of credits goes to [qtarget](https://github.com/overextended/qtarget) for rewriting all of bt-target to make it more optimized and this resource is pretty much a fork of it.
 
 * Huge credit to [bt-target](https://github.com/brentN5/bt-target) from brentN5 for making the target a thing!
