@@ -29,9 +29,9 @@
 
 <body>
     <div id="target-wrapper">
-        <q-icon id="target-eye" :name="CurrentIcon" v-show="Show" :style="TargetEyeStyleObject"></q-icon>
+        <img :src="CurrentIcon" id="target-eye" v-show="Show"></img>
         <div id="target-label-wrapper">
-            <div id="target-label"></div>
+            <div id="target-label" v-html="TargetHTML"></div>
         </div>
     </div>
 </body>
